@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Darren's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Transparent footer style specific to index page */
+        .footer {
+            background: rgba(10, 10, 46, 0.25) !important;
+            backdrop-filter: blur(10px);
+            border-top: 1px solid rgba(78, 0, 255, 0.25);
+        }
+        
+        .footer p {
+            color: rgba(255, 255, 255, 0.9);
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Responsive styles */
+        @media screen and (max-width: 1200px) {
+            .projects-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media screen and (max-width: 768px) {
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .about-content {
+                flex-direction: column;
+            }
+
+            .about-text, .about-image {
+                width: 100%;
+            }
+
+            .contact-content {
+                flex-direction: column;
+            }
+
+            .contact-info, .contact-form {
+                width: 100%;
+                margin: 1rem 0;
+            }
+
+            .hero-content h1 {
+                font-size: 2.5rem;
+            }
+
+            .skills-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+
+            .cta-buttons {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+
+        /* Make images responsive */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Make form elements responsive */
+        input, textarea {
+            max-width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div class="cursor"></div>
+    <div class="cursor-follower"></div>
+
+    <section class="hero">
+        <div class="sunset-circle"></div>
+        <div class="sunset-lines"></div>
+        <div class="hero-content">
+            <h1 class="glitch">Darren Mamuad</h1>
+            <p class="subtitle">Beginner In WebDeveloping</p>
+            <div class="cta-buttons">
+                <a href="#projects" class="btn primary">View Projects</a>
+                <a href="#contact" class="btn secondary">Contact Me</a>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <div class="mouse"></div>
+            <p>Scroll Down</p>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="about-content-wrapper">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>I'm a creative designer and developer with a passion for building engaging digital experiences. My expertise lies in creating frontend designs with HTML, CSS, and PHP. I embrace front-end websites work, which led me to dive deep into HTML, CSS, and PHP.</p>
+                    
+                    <h4 class="section-heading">Skills</h4>
+                    <div class="skills-grid">
+                        <div class="skill">
+                            <i class="fab fa-html5"></i>
+                            <span>HTML</span>
+                        </div>
+                        <div class="skill">
+                            <i class="fab fa-css3-alt"></i>
+                            <span>CSS</span>
+                        </div>
+                        <div class="skill">
+                            <i class="fab fa-php"></i>
+                            <span>PHP</span>
+                        </div>
+                        <div class="skill">
+                            <i class="fas fa-database"></i>
+                            <span>MySQL</span>
+                        </div>
+                        <div class="skill">
+                            <i class="fab fa-js"></i>
+                            <span>JavaScript</span>
+                        </div>
+                        <div class="skill">
+                            <i class="fas fa-code"></i>
+                            <span>Programming Design</span>
+                        </div>
+                    </div>
+                    <h4 class="section-heading">Hobbies</h4>
+                    <p class="status-text">When I'm not coding, I'm playing games or watching anime online.</p>
+                </div>
+                <div class="about-image">
+                    <img src="Pictures/Darren.jpg" alt="Darren Mamuad">
+                    <div class="image-info">
+                        <h3>Darren Mamuad</h3>
+                        <p>Age: 20</p>
+                        <p>Birthday:August 8, 2004</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="modal" id="projectModal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <img src="" alt="Project Preview" id="modalImage">
+        </div>
+    </div>
+
+    <section id="projects" class="projects">
+        <h2 class="section-title">Projects</h2>
+        <h3 class="section-heading">Here are some of my recent projects</h3>
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="Project picture/HomePagePortfolio.jpg" alt="Project 1">
+                </div>
+                <div class="project-info">
+                    <h3>🌐Personal Portfolio Website</h3>
+                    <p>A responsive portfolio website built with HTML, CSS, and PHP. Features include:</p>
+                    <ul class="project-features">
+                        <li>Responsive design for all devices</li>
+                        <li>Contact form with PHP validation</li>
+                        <li>Dynamic content management</li>
+                        <li>Modern animations and transitions</li>
+                    </ul>
+                    <div class="project-links"> 
+                        <a href="#" class="btn small secondary view-project" data-img="Project picture/HomePagePortfolio.jpg">View Project</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="Project picture/DYCI Navigation Tour System.jpg" alt="Project 2">
+                </div>
+                <div class="project-info">
+                    <h3>🔎DYCI Navigation Tour System</h3>
+                    <p>An Map with interactable features:</p>
+                    <ul class="project-features">
+                        <li>Buildings</li>
+                        <li>Map</li>
+                        <li>Student log In</li>
+                        <li>Detail about the Rooms</li>
+                    </ul>
+                    <div class="project-links">
+                        <a href="#" class="btn small secondary view-project" data-img="Project picture/DYCI Navigation Tour System.jpg">View Project</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="Project picture/project3.jpg" alt="Project 3">
+                </div>
+                <div class="project-info">
+                    <h3>🏨Barangay Information System </h3>
+                    <p> This App Based Project help Barangay Official to do less Work. Features include:</p>
+                    <ul class="project-features">
+                        <li>Real-time data updates</li>
+                        <li>Record list of Residents</li>
+                        <li>Announcement </li>
+                        <li>Information About the Barangay</li>
+                    </ul>
+                    <div class="project-links">
+                        <a href="#" class="btn small secondary view-project" data-img="Project picture/project3.jpg">View Project</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2 class="section-title">Contact</h2>
+        <h3 class="section-heading">Get in touch with me</h3>
+        <div class="contact-content">
+            <div class="contact-info">
+                <p>Get in touch via email or social media. I'd love to collaborate or chat about exciting opportunities!</p>
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <p><a href="mailto:darrenmamuad24@gmail.com">darrenmamuad24@gmail.com</a></p>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-phone"></i>
+                    <p>+63 912 345 6789</p>
+                </div>
+                <div class="social-links">
+                    <a href="https://www.facebook.com/Darren.01z/" target="_blank"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/darren0248/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com/Morisaki008" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+            <form class="contact-form" id="contactForm">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Your Name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <input type="text" id="subject" name="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+                </div>
+                <button type="submit" class="btn primary">
+                    <span class="button-text">Send Message</span>
+                    <div class="spinner"></div>
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 Darren All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
