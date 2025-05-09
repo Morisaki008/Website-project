@@ -1,0 +1,346 @@
+[03-May-2025 11:04:48 Europe/Berlin] Login page accessed
+[03-May-2025 11:04:49 Europe/Berlin] Login page accessed
+[03-May-2025 11:04:49 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 11:04:49 Europe/Berlin] Testing database connection...
+[03-May-2025 11:04:49 Europe/Berlin] Database connection successful
+[03-May-2025 11:04:49 Europe/Berlin] Admin count in database: 1
+[03-May-2025 11:04:49 Europe/Berlin] User found in database: Yes
+[03-May-2025 11:04:49 Europe/Berlin] Attempting password verification
+[03-May-2025 11:04:49 Europe/Berlin] Password verification result: Success
+[03-May-2025 11:04:49 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 11:10:03 Europe/Berlin] Login page accessed
+[03-May-2025 11:10:05 Europe/Berlin] Login page accessed
+[03-May-2025 11:10:05 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 11:10:05 Europe/Berlin] Testing database connection...
+[03-May-2025 11:10:05 Europe/Berlin] Database connection successful
+[03-May-2025 11:10:05 Europe/Berlin] Admin count in database: 1
+[03-May-2025 11:10:05 Europe/Berlin] User found in database: Yes
+[03-May-2025 11:10:05 Europe/Berlin] Attempting password verification
+[03-May-2025 11:10:05 Europe/Berlin] Password verification result: Success
+[03-May-2025 11:10:05 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 11:47:19 Europe/Berlin] Login page accessed
+[03-May-2025 11:47:19 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 11:47:19 Europe/Berlin] Testing database connection...
+[03-May-2025 11:47:19 Europe/Berlin] Database connection successful
+[03-May-2025 11:47:19 Europe/Berlin] Admin count in database: 1
+[03-May-2025 11:47:19 Europe/Berlin] User found in database: Yes
+[03-May-2025 11:47:19 Europe/Berlin] Attempting password verification
+[03-May-2025 11:47:19 Europe/Berlin] Password verification result: Success
+[03-May-2025 11:47:19 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 12:07:17 Europe/Berlin] Login page accessed
+[03-May-2025 12:07:18 Europe/Berlin] Login page accessed
+[03-May-2025 12:07:18 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 12:07:18 Europe/Berlin] Testing database connection...
+[03-May-2025 12:07:18 Europe/Berlin] Database connection successful
+[03-May-2025 12:07:18 Europe/Berlin] Admin count in database: 1
+[03-May-2025 12:07:18 Europe/Berlin] User found in database: Yes
+[03-May-2025 12:07:18 Europe/Berlin] Attempting password verification
+[03-May-2025 12:07:18 Europe/Berlin] Password verification result: Success
+[03-May-2025 12:07:18 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 13:10:40 Europe/Berlin] Login page accessed
+[03-May-2025 13:10:41 Europe/Berlin] Login page accessed
+[03-May-2025 13:10:41 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 13:10:41 Europe/Berlin] Testing database connection...
+[03-May-2025 13:10:41 Europe/Berlin] Database connection successful
+[03-May-2025 13:10:41 Europe/Berlin] Admin count in database: 1
+[03-May-2025 13:10:41 Europe/Berlin] User found in database: Yes
+[03-May-2025 13:10:41 Europe/Berlin] Attempting password verification
+[03-May-2025 13:10:41 Europe/Berlin] Password verification result: Success
+[03-May-2025 13:10:41 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 13:11:46 Europe/Berlin] Login page accessed
+[03-May-2025 13:11:54 Europe/Berlin] Login page accessed
+[03-May-2025 13:11:54 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 13:11:54 Europe/Berlin] Testing database connection...
+[03-May-2025 13:11:54 Europe/Berlin] Database connection successful
+[03-May-2025 13:11:54 Europe/Berlin] Admin count in database: 1
+[03-May-2025 13:11:54 Europe/Berlin] User found in database: Yes
+[03-May-2025 13:11:54 Europe/Berlin] Attempting password verification
+[03-May-2025 13:11:54 Europe/Berlin] Password verification result: Failed
+[03-May-2025 13:11:54 Europe/Berlin] Login failed - Invalid credentials
+[03-May-2025 13:11:59 Europe/Berlin] Login page accessed
+[03-May-2025 13:11:59 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 13:11:59 Europe/Berlin] Testing database connection...
+[03-May-2025 13:11:59 Europe/Berlin] Database connection successful
+[03-May-2025 13:11:59 Europe/Berlin] Admin count in database: 1
+[03-May-2025 13:11:59 Europe/Berlin] User found in database: Yes
+[03-May-2025 13:11:59 Europe/Berlin] Attempting password verification
+[03-May-2025 13:11:59 Europe/Berlin] Password verification result: Success
+[03-May-2025 13:11:59 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 13:12:07 Europe/Berlin] Login page accessed
+[03-May-2025 13:42:13 Europe/Berlin] Login page accessed
+[03-May-2025 13:42:14 Europe/Berlin] Login page accessed
+[03-May-2025 13:42:14 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 13:42:14 Europe/Berlin] Testing database connection...
+[03-May-2025 13:42:14 Europe/Berlin] Database connection successful
+[03-May-2025 13:42:14 Europe/Berlin] Admin count in database: 1
+[03-May-2025 13:42:14 Europe/Berlin] User found in database: Yes
+[03-May-2025 13:42:14 Europe/Berlin] Attempting password verification
+[03-May-2025 13:42:14 Europe/Berlin] Password verification result: Success
+[03-May-2025 13:42:14 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 13:42:16 Europe/Berlin] Login page accessed
+[03-May-2025 13:42:17 Europe/Berlin] Login page accessed
+[03-May-2025 13:42:17 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 13:42:17 Europe/Berlin] Testing database connection...
+[03-May-2025 13:42:17 Europe/Berlin] Database connection successful
+[03-May-2025 13:42:17 Europe/Berlin] Admin count in database: 1
+[03-May-2025 13:42:17 Europe/Berlin] User found in database: Yes
+[03-May-2025 13:42:17 Europe/Berlin] Attempting password verification
+[03-May-2025 13:42:17 Europe/Berlin] Password verification result: Success
+[03-May-2025 13:42:17 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 14:21:33 Europe/Berlin] Login page accessed
+[03-May-2025 15:37:27 Europe/Berlin] Login page accessed
+[03-May-2025 15:37:27 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 15:37:27 Europe/Berlin] Testing database connection...
+[03-May-2025 15:37:27 Europe/Berlin] Database connection successful
+[03-May-2025 15:37:27 Europe/Berlin] Admin count in database: 1
+[03-May-2025 15:37:27 Europe/Berlin] User found in database: Yes
+[03-May-2025 15:37:27 Europe/Berlin] Attempting password verification
+[03-May-2025 15:37:27 Europe/Berlin] Password verification result: Success
+[03-May-2025 15:37:27 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 15:38:15 Europe/Berlin] Login page accessed
+[03-May-2025 17:34:34 Europe/Berlin] Login page accessed
+[03-May-2025 17:36:32 Europe/Berlin] Error checking login attempts: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.login_attempts' doesn't exist
+[03-May-2025 17:36:32 Europe/Berlin] Testing database connection...
+[03-May-2025 17:36:32 Europe/Berlin] Database connection successful
+[03-May-2025 17:36:32 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:36:32 Europe/Berlin] User found in database: No
+[03-May-2025 17:36:33 Europe/Berlin] Error recording login attempt: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.login_attempts' doesn't exist
+[03-May-2025 17:36:37 Europe/Berlin] Error checking login attempts: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.login_attempts' doesn't exist
+[03-May-2025 17:36:37 Europe/Berlin] Testing database connection...
+[03-May-2025 17:36:37 Europe/Berlin] Database connection successful
+[03-May-2025 17:36:37 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:36:37 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:36:37 Europe/Berlin] Attempting password verification
+[03-May-2025 17:36:37 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:36:37 Europe/Berlin] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.auth_tokens' doesn't exist
+[03-May-2025 17:36:38 Europe/Berlin] Error checking login attempts: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.login_attempts' doesn't exist
+[03-May-2025 17:36:38 Europe/Berlin] Testing database connection...
+[03-May-2025 17:36:38 Europe/Berlin] Database connection successful
+[03-May-2025 17:36:38 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:36:38 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:36:38 Europe/Berlin] Attempting password verification
+[03-May-2025 17:36:38 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:36:38 Europe/Berlin] Error recording login attempt: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'portfolio.login_attempts' doesn't exist
+[03-May-2025 17:37:40 Europe/Berlin] Login page accessed
+[03-May-2025 17:37:41 Europe/Berlin] Login page accessed
+[03-May-2025 17:37:41 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:37:41 Europe/Berlin] Testing database connection...
+[03-May-2025 17:37:41 Europe/Berlin] Database connection successful
+[03-May-2025 17:37:41 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:37:41 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:37:41 Europe/Berlin] Attempting password verification
+[03-May-2025 17:37:41 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:37:41 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:38:05 Europe/Berlin] Login page accessed
+[03-May-2025 17:38:36 Europe/Berlin] Login page accessed
+[03-May-2025 17:38:38 Europe/Berlin] Login page accessed
+[03-May-2025 17:38:38 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:38:38 Europe/Berlin] Testing database connection...
+[03-May-2025 17:38:38 Europe/Berlin] Database connection successful
+[03-May-2025 17:38:38 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:38:38 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:38:38 Europe/Berlin] Attempting password verification
+[03-May-2025 17:38:38 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:38:38 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:41:42 Europe/Berlin] Login page accessed
+[03-May-2025 17:41:45 Europe/Berlin] Login page accessed
+[03-May-2025 17:41:50 Europe/Berlin] Login page accessed
+[03-May-2025 17:41:50 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:41:50 Europe/Berlin] Testing database connection...
+[03-May-2025 17:41:50 Europe/Berlin] Database connection successful
+[03-May-2025 17:41:50 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:41:50 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:41:50 Europe/Berlin] Attempting password verification
+[03-May-2025 17:41:50 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:41:50 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:41:52 Europe/Berlin] Login page accessed
+[03-May-2025 17:48:02 Europe/Berlin] Login page accessed
+[03-May-2025 17:48:02 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:48:02 Europe/Berlin] Testing database connection...
+[03-May-2025 17:48:02 Europe/Berlin] Database connection successful
+[03-May-2025 17:48:02 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:48:02 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:48:02 Europe/Berlin] Attempting password verification
+[03-May-2025 17:48:02 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:48:02 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:48:11 Europe/Berlin] Login page accessed
+[03-May-2025 17:52:17 Europe/Berlin] Login page accessed
+[03-May-2025 17:52:19 Europe/Berlin] Login page accessed
+[03-May-2025 17:52:19 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:52:19 Europe/Berlin] Testing database connection...
+[03-May-2025 17:52:19 Europe/Berlin] Database connection successful
+[03-May-2025 17:52:19 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:52:19 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:52:19 Europe/Berlin] Attempting password verification
+[03-May-2025 17:52:19 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:52:19 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:52:22 Europe/Berlin] Login page accessed
+[03-May-2025 17:52:42 Europe/Berlin] Login page accessed
+[03-May-2025 17:52:42 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:52:42 Europe/Berlin] Testing database connection...
+[03-May-2025 17:52:42 Europe/Berlin] Database connection successful
+[03-May-2025 17:52:42 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:52:42 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:52:42 Europe/Berlin] Attempting password verification
+[03-May-2025 17:52:42 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:52:42 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 17:52:52 Europe/Berlin] Login page accessed
+[03-May-2025 17:56:13 Europe/Berlin] Login page accessed
+[03-May-2025 17:56:13 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 17:56:13 Europe/Berlin] Testing database connection...
+[03-May-2025 17:56:13 Europe/Berlin] Database connection successful
+[03-May-2025 17:56:13 Europe/Berlin] Admin count in database: 1
+[03-May-2025 17:56:13 Europe/Berlin] User found in database: Yes
+[03-May-2025 17:56:13 Europe/Berlin] Attempting password verification
+[03-May-2025 17:56:13 Europe/Berlin] Password verification result: Success
+[03-May-2025 17:56:13 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 18:07:48 Europe/Berlin] Login page accessed
+[03-May-2025 18:07:50 Europe/Berlin] Login page accessed
+[03-May-2025 18:07:50 Europe/Berlin] Login attempt - Username: charisse_admin
+[03-May-2025 18:07:50 Europe/Berlin] Testing database connection...
+[03-May-2025 18:07:50 Europe/Berlin] Database connection successful
+[03-May-2025 18:07:50 Europe/Berlin] Admin count in database: 1
+[03-May-2025 18:07:50 Europe/Berlin] User found in database: No
+[03-May-2025 18:07:50 Europe/Berlin] Login failed - Invalid credentials
+[03-May-2025 18:07:53 Europe/Berlin] Login page accessed
+[03-May-2025 18:07:53 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 18:07:53 Europe/Berlin] Testing database connection...
+[03-May-2025 18:07:53 Europe/Berlin] Database connection successful
+[03-May-2025 18:07:53 Europe/Berlin] Admin count in database: 1
+[03-May-2025 18:07:53 Europe/Berlin] User found in database: Yes
+[03-May-2025 18:07:53 Europe/Berlin] Attempting password verification
+[03-May-2025 18:07:53 Europe/Berlin] Password verification result: Success
+[03-May-2025 18:07:53 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 18:11:23 Europe/Berlin] Login page accessed
+[03-May-2025 18:11:24 Europe/Berlin] Login page accessed
+[03-May-2025 18:11:24 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 18:11:24 Europe/Berlin] Testing database connection...
+[03-May-2025 18:11:24 Europe/Berlin] Database connection successful
+[03-May-2025 18:11:24 Europe/Berlin] Admin count in database: 1
+[03-May-2025 18:11:24 Europe/Berlin] User found in database: Yes
+[03-May-2025 18:11:24 Europe/Berlin] Attempting password verification
+[03-May-2025 18:11:24 Europe/Berlin] Password verification result: Success
+[03-May-2025 18:11:24 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 18:26:00 Europe/Berlin] Login page accessed
+[03-May-2025 18:26:01 Europe/Berlin] Login page accessed
+[03-May-2025 18:26:01 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 18:26:01 Europe/Berlin] Testing database connection...
+[03-May-2025 18:26:01 Europe/Berlin] Database connection successful
+[03-May-2025 18:26:01 Europe/Berlin] Admin count in database: 1
+[03-May-2025 18:26:01 Europe/Berlin] User found in database: Yes
+[03-May-2025 18:26:01 Europe/Berlin] Attempting password verification
+[03-May-2025 18:26:01 Europe/Berlin] Password verification result: Success
+[03-May-2025 18:26:01 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 18:36:02 Europe/Berlin] Login page accessed
+[03-May-2025 18:36:03 Europe/Berlin] Login page accessed
+[03-May-2025 18:36:03 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 18:36:03 Europe/Berlin] Testing database connection...
+[03-May-2025 18:36:03 Europe/Berlin] Database connection successful
+[03-May-2025 18:36:03 Europe/Berlin] Admin count in database: 1
+[03-May-2025 18:36:03 Europe/Berlin] User found in database: Yes
+[03-May-2025 18:36:03 Europe/Berlin] Attempting password verification
+[03-May-2025 18:36:03 Europe/Berlin] Password verification result: Success
+[03-May-2025 18:36:03 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 18:46:22 Europe/Berlin] Login page accessed
+[03-May-2025 18:47:07 Europe/Berlin] Login page accessed
+[03-May-2025 19:06:39 Europe/Berlin] Login page accessed
+[03-May-2025 19:06:39 Europe/Berlin] Login attempt - Username: admin
+[03-May-2025 19:06:39 Europe/Berlin] Testing database connection...
+[03-May-2025 19:06:39 Europe/Berlin] Database connection successful
+[03-May-2025 19:06:39 Europe/Berlin] Admin count in database: 1
+[03-May-2025 19:06:39 Europe/Berlin] User found in database: Yes
+[03-May-2025 19:06:39 Europe/Berlin] Attempting password verification
+[03-May-2025 19:06:39 Europe/Berlin] Password verification result: Success
+[03-May-2025 19:06:39 Europe/Berlin] Login successful - Redirecting to dashboard
+[03-May-2025 19:08:37 Europe/Berlin] Login page accessed
+[04-May-2025 12:37:35 Europe/Berlin] Login page accessed
+[04-May-2025 12:37:38 Europe/Berlin] Login page accessed
+[04-May-2025 12:37:38 Europe/Berlin] Login attempt - Username: admin
+[04-May-2025 12:37:38 Europe/Berlin] Testing database connection...
+[04-May-2025 12:37:38 Europe/Berlin] Database connection successful
+[04-May-2025 12:37:38 Europe/Berlin] Admin count in database: 1
+[04-May-2025 12:37:38 Europe/Berlin] User found in database: Yes
+[04-May-2025 12:37:38 Europe/Berlin] Attempting password verification
+[04-May-2025 12:37:38 Europe/Berlin] Password verification result: Success
+[04-May-2025 12:37:38 Europe/Berlin] Login successful - Redirecting to dashboard
+[06-May-2025 16:46:23 Europe/Berlin] Login page accessed
+[06-May-2025 16:55:04 Europe/Berlin] Login page accessed
+[06-May-2025 16:55:04 Europe/Berlin] Login attempt - Username: admin
+[06-May-2025 16:55:04 Europe/Berlin] Testing database connection...
+[06-May-2025 16:55:04 Europe/Berlin] Database connection successful
+[06-May-2025 16:55:04 Europe/Berlin] Admin count in database: 1
+[06-May-2025 16:55:04 Europe/Berlin] User found in database: Yes
+[06-May-2025 16:55:04 Europe/Berlin] Attempting password verification
+[06-May-2025 16:55:05 Europe/Berlin] Password verification result: Success
+[06-May-2025 16:55:05 Europe/Berlin] Login successful - Redirecting to dashboard
+[06-May-2025 16:56:32 Europe/Berlin] Login page accessed
+[07-May-2025 17:12:39 Europe/Berlin] Login page accessed
+[07-May-2025 17:12:40 Europe/Berlin] Login page accessed
+[07-May-2025 17:12:42 Europe/Berlin] Login page accessed
+[07-May-2025 17:12:42 Europe/Berlin] Login attempt - Username: charisse_admin
+[07-May-2025 17:12:42 Europe/Berlin] Testing database connection...
+[07-May-2025 17:12:42 Europe/Berlin] Database connection successful
+[07-May-2025 17:12:42 Europe/Berlin] Admin count in database: 1
+[07-May-2025 17:12:42 Europe/Berlin] User found in database: No
+[07-May-2025 17:12:42 Europe/Berlin] Login failed - Invalid credentials
+[07-May-2025 17:12:46 Europe/Berlin] Login page accessed
+[07-May-2025 17:12:46 Europe/Berlin] Login attempt - Username: admin
+[07-May-2025 17:12:46 Europe/Berlin] Testing database connection...
+[07-May-2025 17:12:46 Europe/Berlin] Database connection successful
+[07-May-2025 17:12:46 Europe/Berlin] Admin count in database: 1
+[07-May-2025 17:12:46 Europe/Berlin] User found in database: Yes
+[07-May-2025 17:12:46 Europe/Berlin] Attempting password verification
+[07-May-2025 17:12:46 Europe/Berlin] Password verification result: Success
+[07-May-2025 17:12:46 Europe/Berlin] Login successful - Redirecting to dashboard
+[08-May-2025 05:40:24 Europe/Berlin] Login page accessed
+[08-May-2025 05:40:37 Europe/Berlin] Login page accessed
+[08-May-2025 05:40:37 Europe/Berlin] Login attempt - Username: admin
+[08-May-2025 05:40:37 Europe/Berlin] Testing database connection...
+[08-May-2025 05:40:37 Europe/Berlin] Database connection successful
+[08-May-2025 05:40:37 Europe/Berlin] Admin count in database: 1
+[08-May-2025 05:40:37 Europe/Berlin] User found in database: Yes
+[08-May-2025 05:40:37 Europe/Berlin] Attempting password verification
+[08-May-2025 05:40:37 Europe/Berlin] Password verification result: Success
+[08-May-2025 05:40:37 Europe/Berlin] Login successful - Redirecting to dashboard
+[09-May-2025 06:48:38 Europe/Berlin] Login page accessed
+[09-May-2025 06:59:09 Europe/Berlin] Login page accessed
+[09-May-2025 06:59:11 Europe/Berlin] Login page accessed
+[09-May-2025 06:59:11 Europe/Berlin] Login attempt - Username: admin
+[09-May-2025 06:59:11 Europe/Berlin] Testing database connection...
+[09-May-2025 06:59:11 Europe/Berlin] Database connection successful
+[09-May-2025 06:59:11 Europe/Berlin] Admin count in database: 2
+[09-May-2025 06:59:11 Europe/Berlin] User found in database: Yes
+[09-May-2025 06:59:11 Europe/Berlin] Attempting password verification
+[09-May-2025 06:59:12 Europe/Berlin] Password verification result: Success
+[09-May-2025 06:59:12 Europe/Berlin] Login successful - Redirecting to dashboard
+[09-May-2025 07:00:05 Europe/Berlin] Login page accessed
+[09-May-2025 09:30:29 Europe/Berlin] Login page accessed
+[09-May-2025 09:30:31 Europe/Berlin] Login page accessed
+[09-May-2025 09:30:31 Europe/Berlin] Login attempt - Username: admin
+[09-May-2025 09:30:31 Europe/Berlin] Testing database connection...
+[09-May-2025 09:30:31 Europe/Berlin] Database connection successful
+[09-May-2025 09:30:31 Europe/Berlin] Admin count in database: 2
+[09-May-2025 09:30:31 Europe/Berlin] User found in database: Yes
+[09-May-2025 09:30:31 Europe/Berlin] Attempting password verification
+[09-May-2025 09:30:31 Europe/Berlin] Password verification result: Success
+[09-May-2025 09:30:31 Europe/Berlin] Login successful - Redirecting to dashboard
+[09-May-2025 14:09:06 Europe/Berlin] Login page accessed
+[09-May-2025 14:09:07 Europe/Berlin] Login page accessed
+[09-May-2025 14:09:07 Europe/Berlin] Login attempt - Username: admin
+[09-May-2025 14:09:07 Europe/Berlin] Testing database connection...
+[09-May-2025 14:09:07 Europe/Berlin] Database connection successful
+[09-May-2025 14:09:07 Europe/Berlin] Admin count in database: 2
+[09-May-2025 14:09:07 Europe/Berlin] User found in database: Yes
+[09-May-2025 14:09:07 Europe/Berlin] Attempting password verification
+[09-May-2025 14:09:07 Europe/Berlin] Password verification result: Success
+[09-May-2025 14:09:07 Europe/Berlin] Login successful - Redirecting to dashboard
+[09-May-2025 14:36:55 Europe/Berlin] Login page accessed
+[09-May-2025 14:36:56 Europe/Berlin] Login page accessed
+[09-May-2025 14:36:56 Europe/Berlin] Login attempt - Username: admin
+[09-May-2025 14:36:56 Europe/Berlin] Testing database connection...
+[09-May-2025 14:36:56 Europe/Berlin] Database connection successful
+[09-May-2025 14:36:56 Europe/Berlin] Admin count in database: 2
+[09-May-2025 14:36:56 Europe/Berlin] User found in database: Yes
+[09-May-2025 14:36:56 Europe/Berlin] Attempting password verification
+[09-May-2025 14:36:56 Europe/Berlin] Password verification result: Success
+[09-May-2025 14:36:56 Europe/Berlin] Login successful - Redirecting to dashboard

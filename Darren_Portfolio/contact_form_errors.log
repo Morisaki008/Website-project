@@ -1,0 +1,198 @@
+[08-May-2025 05:23:46 Europe/Berlin] Contact form error: Invalid request method
+[09-May-2025 09:45:59 Europe/Berlin] Contact form error: All fields are required
+[09-May-2025 09:46:17 Europe/Berlin] Contact form error: All fields are required
+[09-May-2025 13:14:42 Europe/Berlin] Received form data - Name: , Email: , Subject: 
+[09-May-2025 13:14:42 Europe/Berlin] Contact form error: All fields are required
+[09-May-2025 13:32:20 Europe/Berlin] Raw request data: 
+[09-May-2025 13:32:20 Europe/Berlin] POST data: Array
+(
+    [name] => 
+    [email] => 
+    [subject] => 
+    [message] => 
+)
+
+[09-May-2025 13:32:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 33
+[09-May-2025 13:32:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 35
+[09-May-2025 13:32:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 36
+[09-May-2025 13:32:20 Europe/Berlin] Processed data - Name: , Email: , Subject: 
+[09-May-2025 13:32:20 Europe/Berlin] Form error: All fields are required
+[09-May-2025 13:32:57 Europe/Berlin] Raw request data: 
+[09-May-2025 13:32:57 Europe/Berlin] POST data: Array
+(
+    [name] => 
+    [email] => 
+    [subject] => 
+    [message] => 
+)
+
+[09-May-2025 13:32:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 33
+[09-May-2025 13:32:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 35
+[09-May-2025 13:32:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\Darren_Portfolio\process_contact.php on line 36
+[09-May-2025 13:32:57 Europe/Berlin] Processed data - Name: , Email: , Subject: 
+[09-May-2025 13:32:57 Europe/Berlin] Form error: All fields are required
+[09-May-2025 14:05:30 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 14:05:30 Europe/Berlin] Request method: POST
+[09-May-2025 14:05:30 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => asdadadadasddas
+    [message] => asdaddaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+)
+
+[09-May-2025 14:05:30 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 14:07:12 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 14:07:12 Europe/Berlin] Request method: POST
+[09-May-2025 14:07:12 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => adadadsadadada
+    [message] => dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+)
+
+[09-May-2025 14:07:13 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 14:07:26 Europe/Berlin] Received request from: http://localhost
+[09-May-2025 14:07:26 Europe/Berlin] Request method: POST
+[09-May-2025 14:07:26 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => adasdas
+    [message] => aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+)
+
+[09-May-2025 14:07:26 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 14:13:39 Europe/Berlin] Received request from: http://localhost
+[09-May-2025 14:13:39 Europe/Berlin] Request method: POST
+[09-May-2025 14:13:39 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => adasdas
+    [message] => daddddddddddddddd
+)
+
+[09-May-2025 14:13:39 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 14:16:45 Europe/Berlin] Received request from: http://localhost
+[09-May-2025 14:16:45 Europe/Berlin] Request method: POST
+[09-May-2025 14:16:45 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => adasdasd
+    [message] => xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+)
+
+[09-May-2025 14:16:45 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 14:17:01 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 14:17:01 Europe/Berlin] Request method: POST
+[09-May-2025 14:17:01 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => dadad
+    [message] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+)
+
+[09-May-2025 14:17:01 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 14:17:27 Europe/Berlin] Received request from: http://localhost
+[09-May-2025 14:17:27 Europe/Berlin] Request method: POST
+[09-May-2025 14:17:27 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => adadadsadadada
+    [message] => ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+)
+
+[09-May-2025 14:17:27 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 14:35:49 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 14:35:49 Europe/Berlin] Request method: POST
+[09-May-2025 14:35:49 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => Hello
+    [message] => darrenmamuad24@gmail.com 
+)
+
+[09-May-2025 14:35:49 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 15:03:17 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 15:03:17 Europe/Berlin] Request method: POST
+[09-May-2025 15:03:17 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => hhhelo
+    [message] => hello
+)
+
+[09-May-2025 15:03:17 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 15:38:43 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 15:38:43 Europe/Berlin] Request method: POST
+[09-May-2025 15:38:43 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => sad
+    [message] => asddddad
+)
+
+[09-May-2025 15:38:43 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 15:39:38 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 15:39:38 Europe/Berlin] Request method: POST
+[09-May-2025 15:39:38 Europe/Berlin] Received data: Array
+(
+    [name] => Entrance
+    [email] => darrenmamuad24@gmail.com
+    [subject] => Absent
+    [message] => a
+)
+
+[09-May-2025 15:39:38 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 15:44:45 Europe/Berlin] Received request from: http://localhost
+[09-May-2025 15:44:45 Europe/Berlin] Request method: POST
+[09-May-2025 15:44:45 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => sds
+    [message] => sad
+)
+
+[09-May-2025 15:44:45 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
+[09-May-2025 15:56:51 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 15:56:51 Europe/Berlin] Request method: POST
+[09-May-2025 15:56:51 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad24@gmail.com
+    [subject] => adasdas
+    [message] => s
+)
+
+[09-May-2025 15:56:51 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 17:20:11 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 17:20:11 Europe/Berlin] Request method: POST
+[09-May-2025 17:20:11 Europe/Berlin] Received data: Array
+(
+    [name] => aadsadsdsadadas
+    [email] => darrenmamuad24@gmail.com
+    [subject] => lold
+    [message] => ddddddddddddd
+)
+
+[09-May-2025 17:20:11 Europe/Berlin] Message successfully saved from: darrenmamuad24@gmail.com
+[09-May-2025 17:32:23 Europe/Berlin] Received request from: http://127.0.0.1:5500
+[09-May-2025 17:32:23 Europe/Berlin] Request method: POST
+[09-May-2025 17:32:23 Europe/Berlin] Received data: Array
+(
+    [name] => Darren
+    [email] => darrenmamuad23@gmail.com
+    [subject] => adasdas
+    [message] => aaa
+)
+
+[09-May-2025 17:32:23 Europe/Berlin] Message successfully saved from: darrenmamuad23@gmail.com
